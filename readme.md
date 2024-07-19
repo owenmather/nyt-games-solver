@@ -1,16 +1,20 @@
-<div align="center" >
-# NYT Solvers
+<div align="end">
 
-Python solvers for the New York Times daily puzzles
+ # 📰 NYT Solvers 
 
-- [X] **Spelling Bee** 
-- [X] **Letter Boxed** 
+_~_ _Python solvers for the New York Times daily puzzles_
+
+</div>
+
+- [X] **Spelling Bee**  
+- [X] **Letter Boxed**  
 - [ ] **Strands**
 - [ ] **Connections**
 - [ ] **Mini Crossword**
 
-</div>
-## :hammer: Usage
+
+
+## 🗒️ Usage
 
 > _Solutions are currently not validated and may produce words that NYT does not accept (scientific terms etc)_
 
